@@ -7,7 +7,7 @@
 ---
 
 - **Email** | sjsjmine129@gmail.com, sjsjmine1@naver.com
-- **Github** | \*\*\*\*[https://github.com/sjsjmine129](https://github.com/sjsjmine129)
+- **Github** | [https://github.com/sjsjmine129](https://github.com/sjsjmine129)
 - **Portfolio** | [https://www.instagram.com/bookshelf_sj/](https://www.instagram.com/bookshelf_sj/)
 - **Resume** | [https://www.instagram.com/bookshelf_sj/](https://www.instagram.com/bookshelf_sj/)
 - **LinkedIn** | [https://www.linkedin.com/in/승주-엄-2484b3288/](https://www.linkedin.com/in/%EC%8A%B9%EC%A3%BC-%EC%97%84-2484b3288/)
@@ -71,11 +71,11 @@ Other Tools
 
 # 🎈  Projects
 
-[ 🎈 Career & Projects](%E1%84%8B%E1%85%A5%E1%86%B7%E1%84%89%E1%85%B3%E1%86%BC%E1%84%8C%E1%85%AE%20Eum%20SeungJu%2051ffd9329341468aaba64686126faee3/%F0%9F%8E%88%20Career%20&%20Projects%20eb16cbeaadb24284b49ef50ddf1d7d1d.csv)
+[ 🎈 Career & Projects](data/Career.csv)
 
 # 🏆 Award & A**chievement**
 
-[🏆 Award & Achievement](%E1%84%8B%E1%85%A5%E1%86%B7%E1%84%89%E1%85%B3%E1%86%BC%E1%84%8C%E1%85%AE%20Eum%20SeungJu%2051ffd9329341468aaba64686126faee3/%F0%9F%8F%86%20Award%20&%20Achievement%20f86ccd47e7c2490b9b76a0c2ebddefaf.csv)
+[🏆 Award & Achievement](data/Award.csv)
 
 # 🎓 학력 & 어학 / 자격증
 
