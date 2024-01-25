@@ -1,6 +1,6 @@
 # 엄승주 : Eum SeungJu
 
-![IMG_3834 2.jpg](%E1%84%8B%E1%85%A5%E1%86%B7%E1%84%89%E1%85%B3%E1%86%BC%E1%84%8C%E1%85%AE%20Eum%20SeungJu%2051ffd9329341468aaba64686126faee3/IMG_3834_2.jpg)
+![IMG_3834 2.jpg](data/IMG_3834_2.jpg)
 
 ## Contact & Channels
 
