@@ -1,0 +1,10 @@
+﻿Method,URL Patterns,Detail,담당자,작업 완료,Last Updated,1차 MVP
+GET,/accounts/me,내 정보 조회,영두 우,Yes,,Yes
+GET,/accounts/{accountId}/profile,다른 계정 정보 조회,영두 우,Yes,,Yes
+GET,/accounts/search/code/{code},코드 검색,영두 우,Yes,,Yes
+PUT,/accounts/me/nickname,프로필 업데이트(닉네임),영두 우,Yes,,Yes
+PUT,/accounts/me/status/{status},프로필 업데이트(status),영두 우,Yes,,Yes
+POST,/accounts/revoke,회원 탈퇴,영두 우,No,,No
+PUT,/accounts/me?push-notification=true,앱 전체 푸시 알림 수신 여부 변경 (온/오프),영두 우,No,,No
+GET,/accounts/me/message,익명 쪽지함 조회,영두 우,Yes,,Yes
+POST,/accounts/{accountId}/message,익명 쪽지 쓰기,영두 우,Yes,,Yes

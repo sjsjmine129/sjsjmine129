@@ -1,0 +1,3 @@
+﻿Method,URL Patterns,Detail,담당자,작업 완료,Last Updated,1차 MVP
+GET,/emoticons/feeds/{feedId},이모티콘에 반응한 사람 조회,영두 우,Yes,,Yes
+PUT,/emoticons/feeds/{feedId},이모티콘 반응,영두 우,Yes,,Yes
