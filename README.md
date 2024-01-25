@@ -1,20 +1,20 @@
 # 엄승주 : Eum SeungJu
 
-![IMG_3834 2.jpg](%E1%84%8B%E1%85%A5%E1%86%B7%E1%84%89%E1%85%B3%E1%86%BC%E1%84%8C%E1%85%AE%20Eum%20SeungJu%2051ffd9329341468aaba64686126faee3/IMG_3834_2.jpg)
+![IMG_3834 2.jpg](data/IMG_3834_2.jpg)
 
 ## Contact & Channels
 
 ---
 
 - **Email** | sjsjmine129@gmail.com, sjsjmine1@naver.com
-- **Github** | ****[https://github.com/sjsjmine129](https://github.com/sjsjmine129)
-- **Portfolio**  | [https://www.instagram.com/bookshelf_sj/](https://www.instagram.com/bookshelf_sj/)
-- **Resume**  | [https://www.instagram.com/bookshelf_sj/](https://www.instagram.com/bookshelf_sj/)
+- **Github** | \*\*\*\*[https://github.com/sjsjmine129](https://github.com/sjsjmine129)
+- **Portfolio** | [https://www.instagram.com/bookshelf_sj/](https://www.instagram.com/bookshelf_sj/)
+- **Resume** | [https://www.instagram.com/bookshelf_sj/](https://www.instagram.com/bookshelf_sj/)
 - **LinkedIn** | [https://www.linkedin.com/in/승주-엄-2484b3288/](https://www.linkedin.com/in/%EC%8A%B9%EC%A3%BC-%EC%97%84-2484b3288/)
 - **Insta Profile** | [https://www.instagram.com/umm_ol7kr/](https://www.instagram.com/umm_ol7kr/)
 - **Insta Book** | [https://www.instagram.com/bookshelf_sj/](https://www.instagram.com/bookshelf_sj/)
 
-# 💻  App, Fe Developer
+# 💻 App, Fe Developer
 
 ---
 
@@ -24,7 +24,7 @@
 - 데이터와 피드백을 중심으로 더 나은 사용자 경험을 중심으로 개발합니다.
 - 개발 뿐만 아니라 모든 방면에서 도전하고 노력합니다.
 
-# 🛠  Stacks
+# 🛠 Stacks
 
 ---
 
@@ -55,7 +55,7 @@ Other Tools
 - Figma
 - Photoshop
 
-# 🖥️  약력
+# 🖥️ 약력
 
 ---
 
@@ -71,17 +71,17 @@ Other Tools
 
 # 🎈  Projects
 
-[  🎈 Career & Projects](%E1%84%8B%E1%85%A5%E1%86%B7%E1%84%89%E1%85%B3%E1%86%BC%E1%84%8C%E1%85%AE%20Eum%20SeungJu%2051ffd9329341468aaba64686126faee3/%F0%9F%8E%88%20Career%20&%20Projects%20eb16cbeaadb24284b49ef50ddf1d7d1d.csv)
+[ 🎈 Career & Projects](%E1%84%8B%E1%85%A5%E1%86%B7%E1%84%89%E1%85%B3%E1%86%BC%E1%84%8C%E1%85%AE%20Eum%20SeungJu%2051ffd9329341468aaba64686126faee3/%F0%9F%8E%88%20Career%20&%20Projects%20eb16cbeaadb24284b49ef50ddf1d7d1d.csv)
 
 # 🏆 Award & A**chievement**
 
 [🏆 Award & Achievement](%E1%84%8B%E1%85%A5%E1%86%B7%E1%84%89%E1%85%B3%E1%86%BC%E1%84%8C%E1%85%AE%20Eum%20SeungJu%2051ffd9329341468aaba64686126faee3/%F0%9F%8F%86%20Award%20&%20Achievement%20f86ccd47e7c2490b9b76a0c2ebddefaf.csv)
 
-# 🎓  학력 & 어학 / 자격증
+# 🎓 학력 & 어학 / 자격증
 
 ---
 
-- 성균관대학교 융합 소프트웨어, 기계공학부  [ 학점 : 4.14 / 4.5 ]
+- 성균관대학교 융합 소프트웨어, 기계공학부 [ 학점 : 4.14 / 4.5 ]
 - AWS Certified Cloud Practitioner
 - OPIc : IH
 - 컴퓨터활용능력 1급
