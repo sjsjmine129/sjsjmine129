@@ -1,29 +1,88 @@
-<h1 align="center">Hi 👋, I'm Eum SeungJu</h1>
-<h3 align="center">A steadily growing App frontend developer,</h3>
+# 엄승주 : Eum SeungJu
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjsjmine129" alt="sjsjmine129" /></a> </p>
+![IMG_3834 2.jpg](%E1%84%8B%E1%85%A5%E1%86%B7%E1%84%89%E1%85%B3%E1%86%BC%E1%84%8C%E1%85%AE%20Eum%20SeungJu%2051ffd9329341468aaba64686126faee3/IMG_3834_2.jpg)
 
-- 🔭 I’m currently working on [Tincle : Our own feed](https://github.com/DoDream-dev/Tinqle-frontend)
+## Contact & Channels
 
-- 🌱 I’m currently learning **Swift, ios**
+---
 
-- 👨‍💻 All of my projects are available at [https://eumseungju.notion.site/Eum-SeungJu-51ffd9329341468aaba64686126faee3?pvs=4](https://eumseungju.notion.site/Eum-SeungJu-51ffd9329341468aaba64686126faee3?pvs=4)
+- **Email** | sjsjmine129@gmail.com, sjsjmine1@naver.com
+- **Github** | ****[https://github.com/sjsjmine129](https://github.com/sjsjmine129)
+- **Portfolio**  | [https://www.instagram.com/bookshelf_sj/](https://www.instagram.com/bookshelf_sj/)
+- **Resume**  | [https://www.instagram.com/bookshelf_sj/](https://www.instagram.com/bookshelf_sj/)
+- **LinkedIn** | [https://www.linkedin.com/in/승주-엄-2484b3288/](https://www.linkedin.com/in/%EC%8A%B9%EC%A3%BC-%EC%97%84-2484b3288/)
+- **Insta Profile** | [https://www.instagram.com/umm_ol7kr/](https://www.instagram.com/umm_ol7kr/)
+- **Insta Book** | [https://www.instagram.com/bookshelf_sj/](https://www.instagram.com/bookshelf_sj/)
 
-- 📫 How to reach me **sjsjmine129@gmail.com**
+# 💻  App, Fe Developer
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IpIibZx-YUDfG2gM995SEsIuoTq11OQH/view?usp=drive_link](https://drive.google.com/file/d/1IpIibZx-YUDfG2gM995SEsIuoTq11OQH/view?usp=drive_link)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/승주-엄-2484b3288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="승주-엄-2484b3288" height="30" width="40" /></a>
-<a href="https://instagram.com/seungjuum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seungjuum" height="30" width="40" /></a>
-</p>
+- 안녕하세요! 완벽을 추구하는 **꾸준한 우상향 개발자** 엄승주입니다.
+- 간단한 코드라도 유지보수성과 가독성을 위해 고민합니다.
+- 애자일하게 빠르고 실용적으로 개발하고, 완벽해 지도록 개선합니다.’
+- 데이터와 피드백을 중심으로 더 나은 사용자 경험을 중심으로 개발합니다.
+- 개발 뿐만 아니라 모든 방면에서 도전하고 노력합니다.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+# 🛠  Stacks
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjsjmine129&show_icons=true&locale=en&layout=compact" alt="sjsjmine129" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sjsjmine129&show_icons=true&locale=en" alt="sjsjmine129" /></p>
+App / Front-End
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sjsjmine129&" alt="sjsjmine129" /></p>
+- React native
+- ios (Swift)
+- TypeScript
+- HTML, CSS
+- Firebase (FCM, analytics)
+
+Back-End
+
+- Node.js
+- REST API
+- MySQL, AWS RDS
+
+DevOps
+
+- AWS - EC2, Lambda,
+- Sentry
+
+Other Tools
+
+- AWS
+- Git, Github
+- Facebook SDK
+- Figma
+- Photoshop
+
+# 🖥️  약력
+
+---
+
+- 2018.03 | 성균관대학교 입학 (융합소프트웨어, 기계공학)
+- 2023.01 | 2023 창업중심대학 예비창업패키지 선정
+- 2023.06 | 스타트업 “Lifoli” 공동 창업
+- 2023.11 | K-Startup Silicon Valley Dream Challenge 참여
+- 2023.11 | 크라우드 선물 앱 “TIKKLE” 출시
+- 2023.11 | 2023 PLAY-STARTUP 참여
+- 2023.12 | Innovation Leaders Summit 참여
+- 2024.01 | 앱 개발 팀 DoDream 참여
+- 2024.02 | 관계중심 SNS tincle 출시 예정
+
+# 🎈  Projects
+
+[  🎈 Career & Projects](%E1%84%8B%E1%85%A5%E1%86%B7%E1%84%89%E1%85%B3%E1%86%BC%E1%84%8C%E1%85%AE%20Eum%20SeungJu%2051ffd9329341468aaba64686126faee3/%F0%9F%8E%88%20Career%20&%20Projects%20eb16cbeaadb24284b49ef50ddf1d7d1d.csv)
+
+# 🏆 Award & A**chievement**
+
+[🏆 Award & Achievement](%E1%84%8B%E1%85%A5%E1%86%B7%E1%84%89%E1%85%B3%E1%86%BC%E1%84%8C%E1%85%AE%20Eum%20SeungJu%2051ffd9329341468aaba64686126faee3/%F0%9F%8F%86%20Award%20&%20Achievement%20f86ccd47e7c2490b9b76a0c2ebddefaf.csv)
+
+# 🎓  학력 & 어학 / 자격증
+
+---
+
+- 성균관대학교 융합 소프트웨어, 기계공학부  [ 학점 : 4.14 / 4.5 ]
+- AWS Certified Cloud Practitioner
+- OPIc : IH
+- 컴퓨터활용능력 1급
+- TOEIC : 895
