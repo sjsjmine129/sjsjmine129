@@ -1,4 +1,0 @@
-﻿Method,URL Patterns,Detail,담당자,작업 완료,Last Updated,1차 MVP
-POST,/images,S3 이미지 업로드,영두 우,Yes,,Yes
-PUT,/images/change,이미지 파일 업데이트,영두 우,Yes,,Yes
-DELETE,/images/{type},이미지 파일 삭제,영두 우,Yes,,Yes
