@@ -4,7 +4,6 @@
   <img src="title.png" alt="Title Image" width="800" >
 </p>
 
-
 # 💻 App, Fe Developer
 
 - Hi, I'm Seungju Eum, a **steady, upwardly mobile developer** who strives for perfection.
@@ -72,36 +71,13 @@ Other Tools
 
 # 🎈  Projects
 
-<style>
-  @media (min-width: 600px) {
-    p {
-      text-align: center;
-    }
-
-    img {
-      width: 400px;
-      margin-right: 20px;
-      display: inline-block;
-    }
-  }
-
-  @media (max-width: 599px) {
-    img {
-      width: 100%;
-      margin-bottom: 10px;
-    }
-  }
-</style>
-
-<p align="center">
-  <a href="https://eumseungju.notion.site/TIKKLE-6d775f688dc04a41bb54d1b9b4cff18d?pvs=4">
-    <img src="tikkle.png" alt="tikkle">
+  <a align="center" href="https://eumseungju.notion.site/TIKKLE-6d775f688dc04a41bb54d1b9b4cff18d?pvs=4">
+    <img src="tikkle.png" alt="tikkle" width="700" >
   </a>
 
-  <a href="https://eumseungju.notion.site/Tincle-342f1f3b0a134fd894957c466ed5cccd?pvs=4">
-    <img src="tincle.png" alt="tincle">
+  <a align="center" href="https://eumseungju.notion.site/Tincle-342f1f3b0a134fd894957c466ed5cccd?pvs=4">
+    <img src="tincle.png" alt="tincle" width="700">
   </a>
-</p>
 
 ---
 
