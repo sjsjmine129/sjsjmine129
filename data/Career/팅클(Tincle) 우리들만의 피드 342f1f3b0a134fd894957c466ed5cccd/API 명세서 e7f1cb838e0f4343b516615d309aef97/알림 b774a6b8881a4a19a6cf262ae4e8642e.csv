@@ -1,4 +1,0 @@
-﻿Method,URL Patterns,Detail,담당자,작업 완료,Last Updated
-GET,/notifications/accounts/me,알림 목록 조회,영두 우,No,
-PUT,/notifications/{notificationId}/read,알림 읽음 표시,영두 우,No,
-POST,/test/push/self,테스트: 푸시,영두 우,No,

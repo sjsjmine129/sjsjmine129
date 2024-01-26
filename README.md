@@ -1,88 +1,112 @@
-# 엄승주 : Eum SeungJu
+<h1 align="center">Hi 👋, I'm Eum SeungJu</h1>
 
-![IMG_3834 2.jpg](data/IMG_3834_2.jpg)
-
-## Contact & Channels
-
----
-
-- **Email** | sjsjmine129@gmail.com, sjsjmine1@naver.com
-- **Github** | [https://github.com/sjsjmine129](https://github.com/sjsjmine129)
-- **Portfolio** | [https://www.instagram.com/bookshelf_sj/](https://www.instagram.com/bookshelf_sj/)
-- **Resume** | [https://www.instagram.com/bookshelf_sj/](https://www.instagram.com/bookshelf_sj/)
-- **LinkedIn** | [https://www.linkedin.com/in/승주-엄-2484b3288/](https://www.linkedin.com/in/%EC%8A%B9%EC%A3%BC-%EC%97%84-2484b3288/)
-- **Insta Profile** | [https://www.instagram.com/umm_ol7kr/](https://www.instagram.com/umm_ol7kr/)
-- **Insta Book** | [https://www.instagram.com/bookshelf_sj/](https://www.instagram.com/bookshelf_sj/)
+<p align="center">
+  <img src="title.png" alt="Title Image" width="800" >
+</p>
 
 # 💻 App, Fe Developer
 
----
+- Hi, I'm Seungju Eum, a **steady, upwardly mobile developer** who strives for perfection.
+- Even with simple code, I worry about maintainability and readability.
+- I develop quickly and pragmatically with agile, and improve it until it's perfect.
+- I develop around data and feedback, centered around a better user experience.
+- We challenge and strive in all areas, not just development.
 
-- 안녕하세요! 완벽을 추구하는 **꾸준한 우상향 개발자** 엄승주입니다.
-- 간단한 코드라도 유지보수성과 가독성을 위해 고민합니다.
-- 애자일하게 빠르고 실용적으로 개발하고, 완벽해 지도록 개선합니다.’
-- 데이터와 피드백을 중심으로 더 나은 사용자 경험을 중심으로 개발합니다.
-- 개발 뿐만 아니라 모든 방면에서 도전하고 노력합니다.
+## 📞 Contact & Channels
+
+- **Email** | sjsjmine129@gmail.com, sjsjmine1@naver.com
+- **Github** | [sjsjmine129](https://github.com/sjsjmine129)
+- **PDF Portfolio** | [SeungJu_Portfolio](https://drive.google.com/file/d/1hy6GEb51YxeHGsvbxAtTIteeWjarLZj-/view?usp=drive_link)
+- **Notion Portfolio** | [SeungJu_Notion](https://eumseungju.notion.site/Eum-SeungJu-51ffd9329341468aaba64686126faee3?pvs=4)
+- **Resume** | [SeungJu_Resume](https://drive.google.com/file/d/1YW3YPffQOY3fS7HTfcTjYqPRvKetBDOD/view?usp=drive_link)
+- **LinkedIn** | [승주-엄-2484b3288](https://www.linkedin.com/in/%EC%8A%B9%EC%A3%BC-%EC%97%84-2484b3288/)
+- **Insta Profile** | [seungjuum](https://www.instagram.com/seungjuum/)
+- **Insta Book** | [bookshelf_sj](https://www.instagram.com/bookshelf_sj/)
 
 # 🛠 Stacks
 
----
+Language
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+</p>
 
 App / Front-End
 
-- React native
-- ios (Swift)
-- TypeScript
-- HTML, CSS
-- Firebase (FCM, analytics)
+<p align="left"> 
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</p>
 
 Back-End
 
-- Node.js
-- REST API
-- MySQL, AWS RDS
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</p>
 
 DevOps
 
-- AWS - EC2, Lambda,
-- Sentry
+<p align="left">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="Sentry.svg" alt="mysql" width="40" height="40"/>
+</p>
 
 Other Tools
 
-- AWS
-- Git, Github
-- Facebook SDK
-- Figma
-- Photoshop
-
-# 🖥️ 약력
-
----
-
-- 2018.03 | 성균관대학교 입학 (융합소프트웨어, 기계공학)
-- 2023.01 | 2023 창업중심대학 예비창업패키지 선정
-- 2023.06 | 스타트업 “Lifoli” 공동 창업
-- 2023.11 | K-Startup Silicon Valley Dream Challenge 참여
-- 2023.11 | 크라우드 선물 앱 “TIKKLE” 출시
-- 2023.11 | 2023 PLAY-STARTUP 참여
-- 2023.12 | Innovation Leaders Summit 참여
-- 2024.01 | 앱 개발 팀 DoDream 참여
-- 2024.02 | 관계중심 SNS tincle 출시 예정
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+</p>
 
 # 🎈  Projects
 
-[ 🎈 Career & Projects](data/Career.csv)
+<style>
+  @media (min-width: 600px) {
+    p {
+      text-align: center;
+    }
 
-# 🏆 Award & A**chievement**
+    img {
+      width: 400px;
+      margin-right: 20px;
+      display: inline-block;
+    }
+  }
 
-[🏆 Award & Achievement](data/Award.csv)
+  @media (max-width: 599px) {
+    img {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  }
+</style>
 
-# 🎓 학력 & 어학 / 자격증
+<p align="center">
+  <a href="https://eumseungju.notion.site/TIKKLE-6d775f688dc04a41bb54d1b9b4cff18d?pvs=4">
+    <img src="tikkle.png" alt="tikkle">
+  </a>
+
+  <a href="https://eumseungju.notion.site/Tincle-342f1f3b0a134fd894957c466ed5cccd?pvs=4">
+    <img src="tincle.png" alt="tincle">
+  </a>
+</p>
 
 ---
 
-- 성균관대학교 융합 소프트웨어, 기계공학부 [ 학점 : 4.14 / 4.5 ]
-- AWS Certified Cloud Practitioner
-- OPIc : IH
-- 컴퓨터활용능력 1급
-- TOEIC : 895
+<p>
+  <img align="cneter" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjsjmine129&show_icons=true&locale=en&layout=compact" alt="sjsjmine129" />
+</p>
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sjsjmine129&" alt="sjsjmine129" />
+</p>
