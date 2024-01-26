@@ -4,6 +4,7 @@
   <img src="title.png" alt="Title Image" width="800" >
 </p>
 
+
 # 💻 App, Fe Developer
 
 - Hi, I'm Seungju Eum, a **steady, upwardly mobile developer** who strives for perfection.
