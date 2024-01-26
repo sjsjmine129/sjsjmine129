@@ -1,6 +1,6 @@
 # 엄승주 : Eum SeungJu
 
-![IMG_3834 2.jpg](data/IMG_3834_2.jpg)
+## App Developer
 
 ## Contact & Channels
 
