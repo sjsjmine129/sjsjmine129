@@ -16,9 +16,9 @@
 
 - **Email** | sjsjmine129@gmail.com, sjsjmine1@naver.com
 - **Github** | [sjsjmine129](https://github.com/sjsjmine129)
-- **PDF Portfolio** | [SeungJu_Portfolio](https://drive.google.com/file/d/1hy6GEb51YxeHGsvbxAtTIteeWjarLZj-/view?usp=drive_link)
+- **PDF Portfolio** | [SeungJu_Portfolio](https://drive.google.com/file/d/1qin9mL0yP85Hh3atFpkLZ8dPI811yLEH/view?usp=drive_link)
 - **Notion Portfolio** | [SeungJu_Notion](https://eumseungju.notion.site/Eum-SeungJu-51ffd9329341468aaba64686126faee3?pvs=4)
-- **Resume** | [SeungJu_Resume](https://drive.google.com/file/d/1YW3YPffQOY3fS7HTfcTjYqPRvKetBDOD/view?usp=drive_link)
+- **Resume** | [SeungJu_Resume](https://drive.google.com/file/d/11Ycp4Cg2mygZFIHFUT3nGMXucY0rgHli/view?usp=drive_link)
 - **LinkedIn** | [승주-엄-2484b3288](https://www.linkedin.com/in/%EC%8A%B9%EC%A3%BC-%EC%97%84-2484b3288/)
 - **Insta Profile** | [seungjuum](https://www.instagram.com/seungjuum/)
 - **Insta Book** | [bookshelf_sj](https://www.instagram.com/bookshelf_sj/)
