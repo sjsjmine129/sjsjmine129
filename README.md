@@ -26,7 +26,7 @@
 # 🛠 Stacks
 
 <div>
-  <span>
+  <span style="display: inline-block; margin-right: 20px;">
     <label>Language</label>
     <p align="left">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -35,7 +35,7 @@
     </p>
   </span>
 
-<span>
+<span style="display: inline-block; margin-right: 20px;">
 <label>App / Front-End</label>
 <p align="left"> 
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
@@ -45,7 +45,7 @@
 </p>
 </span>
 
-<span>
+<span style="display: inline-block; margin-right: 20px;">
 <label>Back-End</label>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -53,7 +53,7 @@
 </p>
 </span>
 
-<span>
+<span style="display: inline-block; margin-right: 20px;">
 <ladel>DevOps</label>
 <p align="left">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
