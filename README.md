@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eum SeungJu</h1>
 
 <p align="center">
-  <img src="title.png" alt="Title Image" width="800" >
+  <img src="title240218.png" alt="Title Image" width="800" >
 </p>
 
 # 💻 App, Fe Developer
@@ -79,7 +79,5 @@
   </a>
 
   <a align="center" href="https://eumseungju.notion.site/Tincle-342f1f3b0a134fd894957c466ed5cccd?pvs=4">
-    <img src="tincle.png" alt="tincle" width="700">
+    <img src="tincle240218.png" alt="tincle" width="700">
   </a>
-
-
