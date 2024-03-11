@@ -1,23 +1,22 @@
-<h1 align="center">Hi 👋, I'm Eum SeungJu</h1>
+<h1 align="center">Hi 👋, I'm App Developer Eum SeungJu</h1>
 
 <p align="center">
   <img src="title240218.png" alt="Title Image" width="800" >
 </p>
 
-# 💻 App, Fe Developer
+# 📱 iOS, RN Developer
 
-- Hi, I'm Seungju Eum, a **steady, upwardly mobile developer** who strives for perfection.
-- Even with simple code, I worry about maintainability and readability.
-- I develop quickly and pragmatically with agile, and improve it until it's perfect.
-- I develop around data and feedback, centered around a better user experience.
-- We challenge and strive in all areas, not just development.
+- Hi, I'm Seung Joo Um, a developer who quickly **absorbs and applies**.
+- I can develop deployable apps with React Native and Swift.
+- I can design UI directly with Figma and move it to code and implement it.
+- As a full-stack app developer for 6 months, I have a good understanding of BE. So, I can communicate well with other developers.
+- I've also experienced planning, marketing, and designing services, so I have a broader perspective of app develop.
 
 ## 📞 Contact & Channels
 
 - **Email** | sjsjmine129@gmail.com, sjsjmine1@naver.com
 - **Github** | [sjsjmine129](https://github.com/sjsjmine129)
 - **Portfolio** | [SeungJu_Notion](https://eumseungju.notion.site/Eum-SeungJu-51ffd9329341468aaba64686126faee3?pvs=4)
-- **LinkedIn** | [승주-엄-2484b3288](https://www.linkedin.com/in/%EC%8A%B9%EC%A3%BC-%EC%97%84-2484b3288/)
 - **Insta Profile** | [seungjuum](https://www.instagram.com/seungjuum/)
 - **Insta Book** | [bookshelf_sj](https://www.instagram.com/bookshelf_sj/)
 
