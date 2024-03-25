@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm App Developer Eum SeungJu</h1>
 
-<p align="center">
+<p align="center" href="https://www.notion.so/iOS-RN-Developer-Eum-SeungJu-51ffd9329341468aaba64686126faee3?pvs=4">
   <img src="main.png" alt="Title Image" width="800" >
 </p>
 
