@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm App Developer Eum SeungJu</h1>
 
 <p align="center">
-  <img src="title240218.png" alt="Title Image" width="800" >
+  <img src="main.png" alt="Title Image" width="800" >
 </p>
 
 # 📱 iOS, RN Developer
@@ -77,4 +77,8 @@
 
   <a align="center" href="https://eumseungju.notion.site/Tincle-342f1f3b0a134fd894957c466ed5cccd?pvs=4">
     <img src="tincle240218.png" alt="tincle" width="700">
+  </a>
+ 
+  <a align="center" href="https://eumseungju.notion.site/Swift-UIKit-c5af51d46ab64300bb1f5577d15c2d39?pvs=4">
+    <img src="mangDex.png" alt="tincle" width="700">
   </a>
