@@ -1,73 +1,64 @@
-<h1 align="center">Hi 👋, I'm SW Engineer Eum SeungJu</h1>
+<h1 align="center">Hi 👋, I'm SW Developer Eum SeungJu</h1>
 
 <a align="center" href="https://www.notion.so/iOS-RN-Developer-Eum-SeungJu-51ffd9329341468aaba64686126faee3?pvs=4">
   <img src="main.png" alt="Title Image" width="800" >
 </a>
 
-# 📱 iOS, RN Developer
-
-- Hi, I'm Seung Joo Um, a developer who quickly **absorbs and applies**.
-- I can develop deployable apps with React Native and Swift.
-- I can design UI directly with Figma and move it to code and implement it.
-- As a full-stack app developer for 6 months, I have a good understanding of BE. So, I can communicate well with other developers.
-- I've also experienced planning, marketing, and designing services, so I have a broader perspective of app develop.
+- I'm a developer who is **immersed and growing** with steadiness as a weapon.
+- I am currently working in the S/W development group of the DA division of Samsung Electronics, developing Taizen applications.
+- I find it rewarding to create software that helps users, and I get the greatest joy when people use the products I develop.
+- I have a passion for development and a challenging spirit that led me to start my own S/W startup when I was in college.
+- Currently, as a hobby and self-development, I run my own business and launch and operate my own apps.
+- He utilizes React Native and Swift to develop cross-platform and iOS apps.
+- I create my own UX/UI designs using Figma and implement them in code.
+- Working as an app full-stack developer for 6 months, I communicate well with backend, planning, and design staff.
+- I want to make life easier with user-friendly apps.
 
 ## 📞 Contact & Channels
 
-- **Email** | sjsjmine129@gmail.com, sjsjmine1@naver.com
+- **Email** | sjsjmine129@gmail.com, seungju.eum@samsung.com
 - **Github** | [sjsjmine129](https://github.com/sjsjmine129)
-- **Portfolio** | [SeungJu_Notion](https://eumseungju.notion.site/Eum-SeungJu-51ffd9329341468aaba64686126faee3?pvs=4)
-- **Insta Profile** | [seungjuum](https://www.instagram.com/seungjuum/)
+- **LinkedIn** | [linkedin](www.linkedin.com/in/seungjueum)
+- **Insta Profile** | [[seungjuum](https://www.instagram.com/seungjuum/)]
 - **Insta Book** | [bookshelf_sj](https://www.instagram.com/bookshelf_sj/)
 
-# 🛠 Stacks
 
-<div>
-  <span style="display: inline-block; margin-right: 20px;">
-    <label>Language</label>
-    <p align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </p>
-  </span>
+# 🛠  Stacks
 
-<span style="display: inline-block; margin-right: 20px;">
-<label>App / Front-End</label>
-<p align="left"> 
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-</p>
-</span>
+---
 
-<span style="display: inline-block; margin-right: 20px;">
-<label>Back-End</label>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</p>
-</span>
+### **App / Front-End**
 
-<span style="display: inline-block; margin-right: 20px;">
-<ladel>DevOps</label>
-<p align="left">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="Sentry.svg" alt="mysql" width="40" height="40"/>
-</p>
-</ladel>
+- **React Native**
+- **iOS Development**
+    - Swift, UIKit
+- **TypeScript**
+- **Firebase**
+    - FCM, Analytics
 
-<span>
-<label>Other Tools</label>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-</p>
-</span>
+### **Back-End**
 
-</div>
+- **Node.js**
+- **REST API Development**
+- **Database**
+    - MySQL, AWS RDS
+
+### **DevOps**
+
+- **AWS** (Infrastructure & Hosting)
+- **Sentry** (Error Tracking & Monitoring)
+- Google Analytics (Performance Monitoring & Event Tracking)
+- Meta SDK (Facebook SDK for Ad Tracking)
+
+### **Other Tools & Platforms**
+
+- **Tizen OS** (WiFi module)
+- **Figma** (UI/UX Design)
+- **Google AdMob** (Ads Integration)
+- **Git, GitHub** (Version Control)
+- **Photoshop** (Simple image edit)
+
+  
 
 # 🎈  Projects
 
