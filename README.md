@@ -7,11 +7,11 @@
 ## [S/W Developer] 엄승주 : Eum SeungJu
 
 - I'm a developer who is **immersed and growing** with steadiness as a weapon.
-- I am currently working in the S/W development group of the DA division of Samsung Electronics, developing Taizen applications.
-- I find it rewarding to create software that helps users, and I get the greatest joy when people use the products I develop.
-- I have a passion for development and a challenging spirit that led me to start my own S/W startup when I was in college.
+- I am working in the S/W development group of Samsung Electronics, developing Taizen applications.
+- I find it rewarding to create software, and I get the greatest joy when people use the products I develop.
+- I have a passion for development that led me to start my own S/W startup when I was in college.
 - Currently, as a hobby and self-development, I run my own business and launch and operate my own apps.
-- He utilizes React Native and Swift to develop cross-platform and iOS apps.
+- Use React Native and Swift to develop cross-platform and iOS apps.
 - I create my own UX/UI designs using Figma and implement them in code.
 - Working as an app full-stack developer for 6 months, I communicate well with backend, planning, and design staff.
 - I want to make life easier with user-friendly apps.
@@ -25,6 +25,10 @@
 - **Insta Book** | [bookshelf_sj](https://www.instagram.com/bookshelf_sj/)
 
 # 🛠 Stacks
+
+| 아이템 1 | 아이템 2 | 아이템 3 |
+|----------|----------|----------|
+| 내용 1   | 내용 2   | 내용 3   |
 
 <div style="display: flex; justify-content: space-between;">
   <div>
