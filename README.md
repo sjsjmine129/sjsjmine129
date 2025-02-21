@@ -1,10 +1,4 @@
-<h1 align="center">Hi 👋, I'm SW Developer Eum SeungJu</h1>
-
-<a align="center" href="https://www.notion.so/iOS-RN-Developer-Eum-SeungJu-51ffd9329341468aaba64686126faee3?pvs=4">
-  <img src="main.png" alt="Title Image" width="800" >
-</a>
-
-## [S/W Developer] 엄승주 : Eum SeungJu
+# Hi 👋, I'm SW Developer Eum SeungJu
 
 - I'm a developer who is **immersed and growing** with steadiness as a weapon.
 - I am working in the S/W development group of Samsung Electronics, developing Taizen applications.
@@ -26,67 +20,39 @@
 
 # 🛠 Stacks
 
-| 아이템 1 | 아이템 2 | 아이템 3 |
-|----------|----------|----------|
-| 내용 1   | 내용 2   | 내용 3   |
+### **App / Front-End**
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <h3>App / Front-End</h3>
-    <ul>
-      <li>React Native</li>
-      <li>iOS Development (Swift, UIKit)</li>
-      <li>TypeScript</li>
-      <li>Firebase (FCM, Analytics)</li>
-    </ul>
-  </div>
+- **React Native**
+- **iOS Development**
+  - Swift, UIKit
+- **TypeScript**
+- **Firebase**
+  - FCM, Analytics
 
-  <div>
-    <h3>Back-End</h3>
-    <ul>
-      <li>Node.js</li>
-      <li>REST API Development</li>
-      <li>Database (MySQL, AWS RDS)</li>
-    </ul>
-  </div>
+### **Back-End**
 
-  <div>
-    <h3>DevOps</h3>
-    <ul>
-      <li>AWS (Infrastructure & Hosting)</li>
-      <li>Sentry (Error Tracking & Monitoring)</li>
-      <li>Google Analytics (Performance Monitoring & Event Tracking)</li>
-      <li>Meta SDK (Facebook SDK for Ad Tracking)</li>
-    </ul>
-  </div>
+- **Node.js**
+- **REST API Development**
+- **Database**
+  - MySQL, AWS RDS
 
-  <div>
-    <h3>Other Tools & Platforms</h3>
-    <ul>
-      <li>Tizen OS (WiFi module)</li>
-      <li>Figma (UI/UX Design)</li>
-      <li>Google AdMob (Ads Integration)</li>
-      <li>Git, GitHub (Version Control)</li>
-      <li>Photoshop (Simple image edit)</li>
-    </ul>
-  </div>
+### **DevOps**
 
-</div>
+- **AWS** (Infrastructure & Hosting)
+- **Sentry** (Error Tracking & Monitoring)
+- Google Analytics (Performance Monitoring & Event Tracking)
+- Meta SDK (Facebook SDK for Ad Tracking)
+
+### **Other Tools & Platforms**
+
+- **Tizen OS** (WiFi module)
+- **Figma** (UI/UX Design)
+- **Google AdMob** (Ads Integration)
+- **Git, GitHub** (Version Control)
+- **Photoshop** (Simple image edit)
 
 # 🎈  Projects
 
-<a align="center" href="https://eumseungju.notion.site/TIKKLE-6d775f688dc04a41bb54d1b9b4cff18d?pvs=4">
-    <img src="tikkle.png" alt="tikkle" width="700" >
-  </a>
-
-<a align="center" href="https://eumseungju.notion.site/Tincle-342f1f3b0a134fd894957c466ed5cccd?pvs=4">
-    <img src="tincle240218.png" alt="tincle" width="700">
-  </a>
-
-<a align="center" href="https://eumseungju.notion.site/Swift-UIKit-c5af51d46ab64300bb1f5577d15c2d39?pvs=4">
-    <img src="mangDex.png" alt="tincle" width="700">
-  </a>
-
-<a align="center" href="https://github.com/meokgu-skku">
-    <img src="mk.png" alt="tincle" width="700">
+<a align="center" href="https://www.notion.so/eumseungju/eb16cbeaadb24284b49ef50ddf1d7d1d?v=4ea2e1ee946f448bb406d29f59930ea0&pvs=4">
+    <img src="main.png" alt="projects" width="700" >
   </a>
