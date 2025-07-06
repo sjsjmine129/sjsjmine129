@@ -45,13 +45,13 @@
 
 ### **Other Tools & Platforms**
 
-- **Tizen OS** (WiFi module)
+- **TizenRT OS** (WiFi module)
 - **Figma** (UI/UX Design)
 - **Google AdMob** (Ads Integration)
 - **Git, GitHub** (Version Control)
 - **Photoshop** (Simple image edit)
 
-# 🎈  Projects
+# 🎈  Personal Projects
 
 <a align="center" href="https://www.notion.so/eumseungju/eb16cbeaadb24284b49ef50ddf1d7d1d?v=4ea2e1ee946f448bb406d29f59930ea0&pvs=4">
     <img src="main.png" alt="projects" width="700" >
