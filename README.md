@@ -1,7 +1,7 @@
 # Hi 👋, I'm SW Developer Eum SeungJu
 
 - I'm a developer who is **immersed and growing** with steadiness as a weapon.
-- I am working in the S/W development group of Samsung Electronics, developing Taizen applications.
+- I am working in the S/W development group of Samsung Electronics, developing TizenRT S/W of digital applience.
 - I find it rewarding to create software, and I get the greatest joy when people use the products I develop.
 - I have a passion for development that led me to start my own S/W startup when I was in college.
 - Currently, as a hobby and self-development, I run my own business and launch and operate my own apps.
